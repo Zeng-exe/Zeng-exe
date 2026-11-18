@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:003b16,100:00ff66&height=190&section=header&text=VINICIUS%20RYAN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CYBERSECURITY%20%7C%20PYTHON%20%7C%20ETHICAL%20HACKING&descAlignY=60&descSize=15&animation=fadeIn" />
+<img width="100%" src="assets/header.svg">
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -18,21 +18,10 @@
 
 ---
 
-## `whoami`
+## `Sobre mim`
 
-```bash
-┌──(vinicius㉿kali)-[~]
-└─$ whoami
-Vinicius Ryan
+<img width="100%" src="assets/about.svg">
 
-└─$ cat about.txt
-Cybersecurity student
-Python developer in progress
-Interested in ethical hacking and information security
-Building practical projects and learning every day
-```
-
-## `./toolkit`
 
 <div align="center">
 
@@ -45,8 +34,8 @@ Building practical projects and learning every day
 </div>
 
 > Tools and technologies shown here represent my learning interests and workflow; this list will evolve as I gain experience.
-
-## `ls -la ./projects`
+<div align="center">
+## `Projetos
 
 | Project | Description |
 |---|---|
@@ -56,10 +45,10 @@ Building practical projects and learning every day
 
 *Replace or add project links above as you publish repositories.*
 
-## `./github-stats`
+## `Stats`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zeng-exe&show_icons=true&hide_border=true&bg_color=001006&title_color=00ff66&icon_color=00ff66&text_color=c9f7d5&rank_icon=github" alt="GitHub statistics" />
+  <img width="100%" src="assets/gh-stats.svg">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeng-exe&layout=compact&hide_border=true&bg_color=001006&title_color=00ff66&text_color=c9f7d5" alt="Most used languages" />
 </div>
 
@@ -67,20 +56,18 @@ Building practical projects and learning every day
   <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zeng-exe&hide_border=true&background=001006&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&sideLabels=c9f7d5&dates=8aa896" alt="GitHub streak" />
 </div>
 
-## `./contributions`
 
 <div align="center">
-  <img width="95%" src="https://raw.githubusercontent.com/Zeng-exe/Zeng-exe/output/snake.svg" alt="Contribution snake animation" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&pause=1000&color=22F73C&width=400&lines=Explorando+o+mundo+da+tecnologia." alt="Typing SVG" /></a>
 </div>
 
 ---
 
 <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=22F73C&width=450&lines=CIBERSEGURAN%C3%87A" alt="Typing SVG" /></a>
 
-```text
-[ ACCESS GRANTED ]
-Stay curious. Think like an attacker. Build like a defender.
-```
+<img width="100%" src="assets/footer.svg">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,50:003b16,100:001a00&height=110&section=footer" />
 
